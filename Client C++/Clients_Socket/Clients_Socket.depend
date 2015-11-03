@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1446463885 source:c:\users\kamill\desktop\exercicec\clients_socket\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<unistd.h>
+
