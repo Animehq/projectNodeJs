@@ -1,7 +1,7 @@
 var Users = {
     /**
      * @param req La requête entrante
-     * @param res Ce qui est renvoyé au navigateur
+     * @param res Ce qui est renvoyé au navigateur  hjhh
      */
     index: function (req, res) {
         res.render('users/index', {"title": "Coucou"});
