@@ -1,3 +1,14 @@
-Liens : 
+NODEJS >> NETSERVER MANUAL # +++
+----------------------------------------------------------------------
+https://nodejs.org/api/net.html
+----------------------------------------------------------------------
 
-Remote Desktop en NODE.JS (GitHub) : https://github.com/kevin-roark/socket.io-computer
+C++ >> CLIENT CONNECT # ++
+----------------------------------------------------------------------
+http://www.binarytides.com/code-a-simple-socket-client-class-in-c/
+----------------------------------------------------------------------
+
+Remote Desktop en NODE.JS (GitHub) # +++
+----------------------------------------------------------------------
+https://github.com/kevin-roark/socket.io-computer
+----------------------------------------------------------------------
